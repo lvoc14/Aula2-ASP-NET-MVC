@@ -14,7 +14,7 @@ namespace WebAppAula2Lab2.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-    {
+    { //muita treta vish
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
